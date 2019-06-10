@@ -1,0 +1,30 @@
+body {
+  /* background-color: #f3f3f3; */
+}
+
+h1 {
+  /* color: rgb(13, 70, 102); */
+  color: rgb(255, 255, 255);
+}
+
+.brand-blue {
+  color: #1495DF;
+}
+
+.brand-yellow {
+  color: #F3C030;
+}
+
+#profile-image {
+  height: 250px;
+  width: 250px;
+  /* border: solid rgb(13, 70, 102) 2px; */
+}
+
+#contact-form {
+  background-color: #1495DF;
+}
+
+#contact-form button {
+  background-color: #F3C030;
+}
